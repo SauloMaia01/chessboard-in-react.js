@@ -6,7 +6,7 @@ export default function Subdivisao(props) {
             style={{
                 backgroundColor: props.preta ? "#000" : "#fff"
             }}
-            className={styles.Subdivisao}> 
+            className={styles.subdivisao}> 
         </div>
     )
 }
