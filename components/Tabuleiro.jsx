@@ -4,13 +4,13 @@ export default function Tabuleiro() {
     return (
         <div>
             <linha />
-            <linha preta />
+            <linha preta="preta" />
             <linha />
-            <linha preta />
+            <linha preta="preta" />
             <linha />
-            <linha preta />
+            <linha preta="preta" />
             <linha />
-            <linha preta />
+            <linha preta="preta" />
         </div>
     )
 }
